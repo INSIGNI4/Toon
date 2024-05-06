@@ -1,0 +1,55 @@
+*{
+    font-size: 16px;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: gold;
+    padding: 0px 0px;
+    
+}
+.line h1{
+    margin-left: 20px;
+
+    
+}
+nav .List ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+}
+nav .List ul li a{   
+    color: black;
+    margin-right: 20px;
+    font-size: 14px;
+    margin-top: 0px;
+    font-weight: bold;
+    
+}
+nav .List ul a:hover{
+    color: white;
+}
+body .anime1 a img{
+    height: 24%;
+    width: 24%;
+
+}
+body table tr{
+    margin-left: 10px;
+    
+}
+body table tr th{
+    font-size: 12.5px;
+
+}
+body table tr th a{
+    color: gold;
+    font-size: 12.5px;
+
+}
+body table tr th a:hover{
+    color: white;
+}

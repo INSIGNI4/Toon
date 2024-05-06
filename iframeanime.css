@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+    color: white;
+    text-decoration: none;
+}
+.top-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5px 30px;
+    background: green;
+    
+}
+.login{
+    font-size: 16.5px;
+    font-display: none;
+}
+.top-bar a:hover{
+    color: gold;
+
+}
+
+.info{
+    display: flex;
+}
+.top-bar ul{
+    list-style: none;
+    display: flex;
+}
+.top-bar ul li{
+    margin: 0 5px;
+    font-size: 21px;
+}
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0% 20px;
+    position: fixed;
+
+
+    
+    
+}
+nav .logo a img{
+    
+    width: 250px;
+    margin-right: 10px;
+}
+
+nav .header ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+    
+}
+
+nav .header ul li a{
+    display: flex;   
+    color: gold;
+    margin-right: 20px;
+    font-size: 18px;
+    margin-top: 50px;
+    
+}
+nav .header ul a:hover{
+    color: white;
+}
+nav .search input{
+    margin-right: 10px;
+    color: gold;
+    font-weight: bold;
+    width: 250px;
+    margin-top: 50px;
+    background-color: black;
+}
+.header .search.active{
+    display: inline-block;
+}
+.animelis{
+    margin-left: 2px;
+    margin-top: 120px;
+    
+}
+.bottom{
+    background-color: green;
+
+}
+p{
+    color: white;
+    font-size: 16.5px;  
+    display: flex;
+    align-items: center;    
+    padding: 20px 0px;
+    margin-left: 25px;
+    margin-bottom: -3px;
+
+}
+

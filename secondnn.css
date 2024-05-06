@@ -1,0 +1,139 @@
+*{
+    text-decoration: none;
+}
+body{
+    font-size: 14.5px;
+    display: contents;
+    
+}
+body .one{
+    margin-top: 20.5px;
+}
+body .one a{
+    color: gold;
+    
+}
+body .one a:hover{
+    color: white;
+}
+body p{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body .onegen{
+    margin-top: 0px;
+}
+body .onegen a{
+    color: lightslategray;
+    margin-top: px;
+
+}
+body a:hover{
+    color: gold;
+
+
+
+
+    
+}
+body .two{
+    margin-top: 23.5px;
+
+}
+body .two a{
+    color: gold;   
+}
+body .two a:hover{
+    color: white;
+}
+
+
+body .twogen a{
+    color: lightslategray;
+}
+body a:hover{
+    color: gold;
+}
+
+
+
+
+body .three{
+    margin-top: 36.5px;
+
+}
+body .three a{
+    color: gold;
+    
+}
+body .three a:hover{
+    color: white;
+}
+body .threegen{
+    margin-top: 0px;
+}
+body .threegen a{
+    color: lightslategray;
+    margin-top: px;
+
+}
+body a:hover{
+    color: gold;
+}
+
+
+
+
+
+
+body .four{
+    margin-top: 19.5px;
+
+
+}
+body .four a{
+    color: gold;
+    
+}
+body .four a:hover{
+    color: white;
+}
+body .fourgen{
+    margin-top: 0px;
+}
+body .fourgen a{
+    color: lightslategray;
+
+
+}
+body a:hover{
+    color: gold;
+}
+
+
+
+body .five{
+    margin-top: 42.5px;
+ 
+}
+body .five a{
+    color: gold;
+    
+}
+body .five a:hover{
+    color: white;
+}
+body .fivegen{
+    margin-top: 0px;
+}
+body .fivegen a{
+    color: lightslategray;
+
+
+}
+body a:hover{
+    color: gold;
+}
+

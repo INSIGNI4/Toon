@@ -1,0 +1,43 @@
+*{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: gold;
+    padding: 16.5px 0px;
+    
+}
+nav div{
+    margin-left: 40px;
+    font-size: 15px;
+    font-weight: bolder;
+    
+    
+}
+nav div a{
+    color: black;
+    
+}
+nav div a:hover{
+    color: white;
+}
+nav .Month{
+    margin-right: 50px;
+    
+}
+body{
+    font-size: 14.5px;
+}
+body .one a{
+    color: gold;
+    
+}
+body .one p{
+    color: white;
+    margin-top: 0;
+}
+body a:hover{
+    color: white;
+}
